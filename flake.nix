@@ -62,10 +62,3 @@
     };
   };
 }
-
-
-# sudo nix build .#packages.x86_64-linux.plank-reloaded
-
-# readlink -f result
-
-# /bin/plank
